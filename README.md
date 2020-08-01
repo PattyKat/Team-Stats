@@ -1,2 +1,2 @@
 # Team-Stats
-The Tea Stats porject in Codecademy that uses arrays, objects and getter methods.
+The Team Stats project in Codecademy that uses arrays, objects and getter methods.
